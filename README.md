@@ -43,3 +43,5 @@ python main.py --name PBMC-3k --pretrain True
 python main.py --name PBMC-3k
 ```
 
+## Citation
+Please cite our paper if you find the work useful:
