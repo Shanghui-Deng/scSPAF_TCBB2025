@@ -3,6 +3,10 @@
 >**Authors:**
 Shanghui Deng, Xiao Zheng, Chang Tang, Xinwang Liu, Yuanyuan Liu, Shan An
 
+>**Published:**
+IEEE Transactions on Computational Biology and Bioinformatics
+
+
 ### 1. Overview
 <p align="center">
   <img src="assest/scspaf.png"/> <br/>
