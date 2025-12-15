@@ -1,13 +1,20 @@
-## scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering
+# <p align=center> scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering </p>
 
+>**Authors:**
+Shanghui Deng, Xiao Zheng, Chang Tang, Xinwang Liu, Yuanyuan Liu, Shan An
 
-## Datasets
+### 1. Overview
+<p align="center">
+  <img src="assest/scspaf.png"/> <br/>
+</p>
+
+### 2. Datasets
 Ma-2020, PBMC-3k, PBMC-10k, BMNC, GSE, and GSE100866 datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/17Q1rlOfqSKdVlIXqqs8oBC6BIpqaEt-o?usp=sharing).
 
-## Pretrained Model 
+### 3. Pretrained Model 
 The Pretrained Model can be downloaded from [Google Drive](https://drive.google.com/drive/folders/17Q1rlOfqSKdVlIXqqs8oBC6BIpqaEt-o?usp=sharing). It can also be obtained through code training.
 
-## Requirement
+### 4. Requirement
 - Pytorch --- 2.4.0
 - Python --- 3.9.19
 - Numpy --- 1.26.4
@@ -17,7 +24,7 @@ The Pretrained Model can be downloaded from [Google Drive](https://drive.google.
 - tqdm --- 4.66.5
 
 
-## Usage
+### 5. Usage
 
 #### Clone this pro
 ```
@@ -43,7 +50,7 @@ python main.py --name PBMC-3k --pretrain True
 python main.py --name PBMC-3k
 ```
 
-## Citation
+### 6. Citation
 Please cite our paper if you find the work useful:
 ```
 @ARTICLE{deng2025scspaf,
