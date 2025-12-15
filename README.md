@@ -46,14 +46,14 @@ python main.py --name PBMC-3k
 ## Citation
 Please cite our paper if you find the work useful:
 ```
-  @article{deng2025scspaf,
-  title={scSPAF: Cell Similarity Purified Adaptive Fusion Network for Single-Cell Multi-Omics Clustering}, 
+@ARTICLE{deng2025scspaf,
   author={Deng, Shanghui and Zheng, Xiao and Tang, Chang and Liu, Xinwang and Liu, Yuanyuan and An, Shan},
   journal={IEEE Transactions on Computational Biology and Bioinformatics}, 
+  title={scSPAF: Cell Similarity Purified Adaptive Fusion Network for Single-Cell Multi-Omics Clustering}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TCBBIO.2025.3608251}
-  }
+  volume={22},
+  number={6},
+  pages={2943-2954},
+  doi={10.1109/TCBBIO.2025.3608251}}
+
 ```
