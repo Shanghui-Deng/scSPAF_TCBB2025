@@ -21,7 +21,7 @@ The Pretrained Model can be downloaded from [Google Drive](https://drive.google.
 
 #### Clone this pro
 ```
-git clone https://github.com/Shanghui-Deng/scSPAF.git
+git clone https://github.com/Shanghui-Deng/scSPAF_TCBB2025.git
 ```
 #### Code structure
 - ```data_loader.py```: loads the dataset and contruct the cell graph
